@@ -1,7 +1,7 @@
 import { expect } from 'https://deno.land/x/expect@v0.2.6/mod.ts';
 const test = Deno.test;
-import ColorName from 'https://deno.land/x/sptruz_color_name@0.0.0-beta.0.0.1/mod.ts';
-import convert from 'https://deno.land/x/sptruz_convert@0.0.0-beta.0.0.1/mod.ts';
+import ColorName from 'https://deno.land/x/sptruz_color_name@0.0.0-beta.0.1.0/mod.ts';
+import convert from 'https://deno.land/x/sptruz_convert@0.0.0-beta.0.1.0/mod.ts';
 
 import Mix from '../index.ts';
 

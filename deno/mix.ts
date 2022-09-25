@@ -1,4 +1,4 @@
-import convert from 'https://deno.land/x/sptruz_convert@0.0.0-beta.0.0.1/mod.ts';
+import convert from 'https://deno.land/x/sptruz_convert@0.0.0-beta.0.1.0/mod.ts';
 import parseColor from './utils/parseColor.util.ts';
 
 const mix = (color1: string, color2: string, percentage = 50) => {
